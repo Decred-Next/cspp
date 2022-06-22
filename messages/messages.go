@@ -53,8 +53,8 @@ import (
 
 	"decred.org/cspp/v2/dcnet"
 	"decred.org/cspp/v2/x25519"
+	"github.com/Decred-Next/dcrnd/crypto/blake256/v8"
 	"github.com/companyzero/sntrup4591761"
-	"github.com/decred/dcrd/crypto/blake256"
 	"golang.org/x/crypto/ed25519"
 )
 

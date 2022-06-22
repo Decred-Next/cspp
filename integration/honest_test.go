@@ -20,7 +20,7 @@ import (
 	"decred.org/cspp/v2/coinjoin"
 	"decred.org/cspp/v2/internal/nettest"
 	"decred.org/cspp/v2/server"
-	"github.com/decred/dcrd/wire"
+	"github.com/Decred-Next/dcrnd/wire/v8"
 	"golang.org/x/crypto/ed25519"
 )
 

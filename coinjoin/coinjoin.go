@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/decred/dcrd/wire"
+	"github.com/Decred-Next/dcrnd/wire/v8"
 	"golang.org/x/sync/errgroup"
 )
 
